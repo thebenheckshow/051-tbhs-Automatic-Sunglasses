@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "AutoSun", "AutoSun\AutoSun.cproj", "{3F43ECE2-3884-49C5-9413-B5130DB21EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F43ECE2-3884-49C5-9413-B5130DB21EAC}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3F43ECE2-3884-49C5-9413-B5130DB21EAC}.Debug|AVR.Build.0 = Debug|AVR
+		{3F43ECE2-3884-49C5-9413-B5130DB21EAC}.Release|AVR.ActiveCfg = Release|AVR
+		{3F43ECE2-3884-49C5-9413-B5130DB21EAC}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
